@@ -7,5 +7,4 @@
 
 <h1 align="center"> <img width="580" height="390" alt="Walking" src="https://github.com/user-attachments/assets/04c67b3c-0a10-4311-adad-864fa31d8df3" />
 <h1 align="center"> What da dog doin?
-
-
+  <details> <h1 align="center"> Maybe I’ll add something else later.
